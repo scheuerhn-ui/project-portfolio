@@ -1,7 +1,7 @@
 # Projektportfolio — Michael Scheuer
 
 SAP Inhouse Consultant │ FI | CO │ SAC │ Business Data Cloud | Concur │ BTP │  
-7+ Jahre Projekterfahrung 
+7+ Jahre Projekterfahrung  
 📧 scheuer.hn@gmail.com 
 
 ---
@@ -15,7 +15,7 @@ Ich optimiere FI/CO-Prozesse, integriere Tools wie Concur oder SAC und entwickle
 ## Projektauswahl
 Hier findest du eine Auswahl meiner bisherigen SAP-Projekte:
 
-- [Voruntersuchung & Konzeption der SAC-Einführung – Projektleitung · 2025] (project/SAC.md)
+- [Voruntersuchung & Konzeption der SAC-Einführung – Projektleitung · 2025](project/SAC.md)
 - [Optimierung des Cash-Managements durch KI-Anwendung (XSuite) - Projektleitung · 2025](projects/Cash_Management.md)
 - [Einführung SAP Subscription Billing (BTP) mit Integration in S4/HANA – Projektleitung · 2025](projects/Subscription_Billing.md)
 - [S4/HANA Greenfield Conversion – Teilprojektleitung Finance & Member of Steering Committee · 2024](projects/S4HANA_Conversion.md)
