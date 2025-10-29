@@ -1,8 +1,8 @@
 # SAP Rollout - Standort Frankreich (2023)
 
-**Rolle:** Projektleitung
-**Zeitraum:** 2023  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleitung  
+**Zeitraum:** 2023    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 -	Anpassung des Customizings (CO und FI)
