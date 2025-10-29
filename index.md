@@ -15,17 +15,17 @@ Ich optimiere FI/CO-Prozesse, integriere Tools wie Concur oder SAC und entwickle
 ## Projektauswahl
 Hier findest du eine Auswahl meiner bisherigen SAP-Projekte:
 
-- **Voruntersuchung & Konzeption der SAC-Einführung** – Projektleitung · 2025
-- **Optimierung des Cash-Managements durch KI-Anwendung (XSuite)** - Projektleitung · 2025
-- **Einführung SAP Subscription Billing (BTP) mit Integration in S4/HANA** – Projektleitung · 2025  
-- **S4/HANA Greenfield Conversion** – Teilprojektleitung Finance & Member of Steering Committee · 2024
-- **CVI-Umstellung & Implementierung der Business Partner** - Projektleiter  · 2023
-- **Vorprojekt zur S4/HANA Conversion** - Projektleiter Finance · 2023
-- **SAP Rollout der Module FI/CO - Standort Beglien** - Projektleiter · 2023
-- **SAP Rollout - Standort Frankreich** - Projektleiter · 2023
-- **Neuaufbau HCM nach Cyberangriff** - Projektleiter · 2022
-- **Neueinführung eines ERP-Systems inkl. Integration eines CRM- und BI-Tools** - Projektleiter · 2019
-- **Einführung Salesforce** - Projektmitglied - · 2018
+- [Voruntersuchung & Konzeption der SAC-Einführung – Projektleitung · 2025] (project/SAP Analytics Cloud.md)
+- [Optimierung des Cash-Managements durch KI-Anwendung (XSuite) - Projektleitung · 2025](projects/Cash Management.md)
+- [Einführung SAP Subscription Billing (BTP) mit Integration in S4/HANA – Projektleitung · 2025](projects/Subscription Billing.md)
+- [S4/HANA Greenfield Conversion – Teilprojektleitung Finance & Member of Steering Committee · 2024](projects/S4HANA Conversion.md)
+- [CVI-Umstellung & Implementierung der Business Partner - Projektleiter  · 2023](projects/CVI & Business Partner.md)
+- [Vorprojekt zur S4/HANA Conversion - Projektleiter Finance · 2023](projects/Vorprojekt S4.md)
+- [SAP Rollout der Module FI/CO - Standort Beglien - Projektleiter · 2023](projects/Rollout Belgien.md)
+- [SAP Rollout - Standort Frankreich - Projektleiter · 2023](projects/SAP Rollout Frankreich.md)
+- [Neuaufbau HCM nach Cyberangriff - Projektleiter · 2022](projects/HCM.md)
+- [Neueinführung eines ERP-Systems inkl. Integration eines CRM- und BI-Tools - Projektleiter · 2019](projects/proALPHA.md)
+- [Einführung Salesforce - Projektmitglied - · 2018](projects/Salesforce)
 
 Detaillierte Projektbeschreibungen folgen auf den Unterseiten.
 
