@@ -1,7 +1,7 @@
 # Globale Einführung Salesforce mit Integration in SAP (2018)
 
-**Rolle:** Projektmitglied
-**Zeitraum:** 2018  
+**Rolle:** Projektmitglied  
+**Zeitraum:** 2018    
 **Unternehmen:** Beispiel GmbH
 
 **Meine Aufgaben / Highlights:**
