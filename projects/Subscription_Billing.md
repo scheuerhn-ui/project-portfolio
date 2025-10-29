@@ -1,8 +1,8 @@
 # Einführung SAP Subscription Billing (BTP) mit Integration in S4/HANA (2025)
 
-**Rolle:** Projektleitung 
-**Zeitraum:** 2025  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleitung   
+**Zeitraum:** 2025    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 -	Steuerung und Koordination des gesamten Projektverlaufs (Planung, Budget, Ressourcen, Zeitplan)
