@@ -1,8 +1,8 @@
 # S4/HANA Brownfield Conversion (2024)
 
-**Rolle:** Teilprojektleitung Finance & Member of Steering Committee
-**Zeitraum:** 2024 - 2025  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Teilprojektleitung Finance & Member of Steering Committee  
+**Zeitraum:** 2024 - 2025    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 - Technische Vorbereitung und Durchführung der Conversion (SUM-Tool, Systemchecks, Readiness-Analysen)
