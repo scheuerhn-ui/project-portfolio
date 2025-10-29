@@ -1,8 +1,8 @@
 # Neuaufbau SAP HCM nach Cyberangriff (2022)
 
-**Rolle:** Projektleiter
-**Zeitraum:** 2022 - 2023
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleiter  
+**Zeitraum:** 2022 - 2023  
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 -	Einrichtung Customizing gem. vorhandener Dokumentation
