@@ -1,8 +1,8 @@
 # Customer-Vendor-Integration & Umstellung Business Partner (2023)
 
-**Rolle:** Projektleitung 
-**Zeitraum:** 2023  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleitung   
+**Zeitraum:** 2023    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 -	Konzeption der Migration und des künftigen Datenmodells
