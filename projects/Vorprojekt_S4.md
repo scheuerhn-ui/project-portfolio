@@ -1,8 +1,8 @@
 # Vorprojekt zur S4/HANA Conversion (2023)
 
-**Rolle:** Projektleiter Finance 
-**Zeitraum:** 2023  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleiter Finance   
+**Zeitraum:** 2023    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 -	Analyse des Readyness Checks
