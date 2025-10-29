@@ -1,6 +1,6 @@
-**Rolle:** Projektleitung
-**Zeitraum:** 2025  
-**Unternehmen:** Richard Wolf GmbH
+**Rolle:** Projektleitung  
+**Zeitraum:** 2025    
+**Unternehmen:** Richard Wolf GmbH  
 
 **Meine Aufgaben / Highlights:**
 - Erstellung eines Dashboards mit definierten Kennzahlen zum Cash-Management (FIORI)
