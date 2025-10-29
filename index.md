@@ -1,6 +1,6 @@
 # Projektportfolio — Michael Scheuer
 
-SAP Inhouse Consultant │ FI | CO │ SAC │ Business Data Cloud | Concur │ BTP │ 
+SAP Inhouse Consultant │ FI | CO │ SAC │ Business Data Cloud | Concur │ BTP │  
 7+ Jahre Projekterfahrung 
 📧 scheuer.hn@gmail.com 
 
