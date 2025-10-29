@@ -1,6 +1,6 @@
 # Neueinführung eines ERP-Systems inkl. Integration eines CRM- und BI-Tools (2029)
 
-**Rolle:** Projektleiter
+**Rolle:** Projektleiter  
 **Zeitraum:** 2019 - 2021  
 **Unternehmen:** ARKU Maschinenbau GmbH
 
