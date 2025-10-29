@@ -1,7 +1,7 @@
 # SAP Analytics Cloud (SAC) – Voruntersuchung & Konzeption (2025)
 
-**Rolle:** Projektleitung  
-**Zeitraum:** 2025  
+**Rolle:** Projektleitung    
+**Zeitraum:** 2025    
 **Unternehmen:** Richard Wolf GmbH
 
 **Meine Aufgaben / Highlights:**
